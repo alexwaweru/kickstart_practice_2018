@@ -27,15 +27,23 @@ Limits
 #### Small dataset
 
 1 ≤ N ≤ 50
+
 1 ≤ Ai ≤ 500, for all i.
+
 1 ≤ Bi ≤ 500, for all i.
+
 1 ≤ Ci ≤ 500, for all i.
+
 1 ≤ P ≤ 50.
 
 #### Large dataset
 
 1 ≤ N ≤ 500.
+
 1 ≤ Ai ≤ 5000, for all i.
+
 1 ≤ Bi ≤ 5000, for all i.
+
 1 ≤ Ci ≤ 5000, for all i.
+
 1 ≤ P ≤ 500.
